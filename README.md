@@ -4,5 +4,7 @@ Incluido o jogo Cobra na caixa
 e o jogo Gousmas War.
 
 Utilizamos linguagem padrão em C para desenvolver o jogo 1.
-Fizemos uso de IA para desenvolver perguntas e respostas aleatorias
+Fizemos uso de IA para desenvolver perguntas e respostas aleatoria
+foi utilizado a linguagem padrão(c) para desenvolver o jogo, o uso da ia foi apenas para compreender como utilizar a biblioteca ncurses
 E usamos IA para elaborar o jogo 3, e a partir disso buscamos enxutar o codigo e compreender onde não conseguimos prosseguir.
+
